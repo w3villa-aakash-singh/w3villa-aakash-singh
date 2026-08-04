@@ -1,24 +1,251 @@
-# 💫 About Me:
-🔭 I’m currently working on Kivo Eye – SSWL, a real-time production-line monitoring dashboard with camera/CV event tracking and analytics.<br>👯 I’m looking to collaborate on industrial IoT, computer vision, real-time dashboards, and scalable full-stack systems.<br>🤝 I’m looking for help with improving CV detection accuracy, production analytics, and reliable camera-stream integrations.<br>🌱 I’m currently learning FAISS vector search, GPU-accelerated AI workflows, and real-time WebSocket architectures.<br>💬 Ask me about FastAPI, React, PostgreSQL, Redis, JWT authentication, WebSockets, dashboards, and machine-vision integrations.<br>⚡ Fun fact: Kivo Eye processes live production-line events and turns them into dashboard metrics in real time.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Aakash%20Singh&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Computer%20Vision&descAlignY=60"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=w3villa-aakash-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=w3villa-aakash-singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=w3villa-aakash-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Building+Real-Time+Industrial+Applications;⚡+FastAPI+•+React+•+PostgreSQL+•+Redis;🤖+Computer+Vision+•+AI+•+WebSockets;💙+Open+Source+Contributor;🌍+Always+Learning+New+Technologies"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=w3villa-aakash-singh&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=w3villa-aakash-singh&style=for-the-badge&color=blue"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=w3villa-aakash-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/github/followers/w3villa-aakash-singh?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/w3villa-aakash-singh?style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=w3villa-aakash-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```yaml
+👨‍💻 Name: Aakash Singh
+
+🎯 Role:
+    Full Stack Developer
+
+🏭 Current Project:
+    Kivo Eye (SSWL)
+
+🧠 Working On:
+    Industrial AI
+    Production Analytics
+    Real-Time Systems
+    Computer Vision
+
+🌱 Learning:
+    FAISS
+    CUDA
+    GPU Programming
+    TensorRT
+    Kafka
+    Kubernetes
+
+💬 Ask Me:
+    FastAPI
+    React
+    PostgreSQL
+    Redis
+    JWT
+    Docker
+    Computer Vision
+    WebSockets
+
+⚡ Fun Fact:
+    My applications transform
+    live camera events
+    into analytics in milliseconds.
+```
+
+---
+
+# 🚀 Featured Project
+
+<table>
+<tr>
+
+<td width="50%">
+
+# 👁️ Kivo Eye
+
+Industrial Production Monitoring Platform
+
+### Features
+
+- Live Camera Monitoring
+- AI Event Detection
+- Real-Time Dashboard
+- WebSocket Streaming
+- Analytics
+- Reports
+- Shift Management
+- Production Metrics
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,angular"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring"/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase"/>
+
+## DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,heroku"/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode"/>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=w3villa-aakash-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3villa-aakash-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=w3villa-aakash-singh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=w3villa-aakash-singh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=w3villa-aakash-singh&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🎵 Currently Listening
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID)
+
+---
+
+# 🏅 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito"/>
+
+---
+
+# 🎖 Holopin
+
+[![An image of @yourholopin's Holopin badges](https://holopin.me/yourholopin)](https://holopin.io/@yourholopin)
+
+---
+
+# 📅 3D Contribution Calendar
+
+![](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/docs/demo.svg)
+
+---
+
+# 📌 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/w3villa-aakash-singh/REPO1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=w3villa-aakash-singh&repo=REPO1&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/w3villa-aakash-singh/REPO2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=w3villa-aakash-singh&repo=REPO2&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/w3villa-aakash-singh">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://twitter.com/YOUR_ID">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
