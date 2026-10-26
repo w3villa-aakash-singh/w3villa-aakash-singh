@@ -25,17 +25,21 @@ I'm a full-stack engineer who builds data-heavy product features end to end: Pos
 Name:      Aakash Singh
 Role:      Full-Stack Software Engineer
 Company:   W3Villa
-Focus:     Production analytics, reporting systems, SQL performance
+Project:   Kivo Eye (SSWL)
+Working on: Production analytics, reporting systems, real-time dashboards, SQL performance
 Strengths: FastAPI, React, PostgreSQL, Redis, SQLAlchemy
 Learning:  FAISS, CUDA, TensorRT, Kafka, Kubernetes
-Ask me:    API design, report and export workflows, index and query tuning, caching
+Ask me:    FastAPI, React, PostgreSQL, Redis, JWT, Docker, WebSockets, Computer Vision,
+           report and export workflows, index and query tuning
 ```
 
 <img src="assets/divider.svg" width="100%"/>
 
-## Featured Project: Kivo Eye
+## Featured Project: Kivo Eye (SSWL)
 
 A production-line analytics platform for a manufacturing environment. It combines live line monitoring, shift and run tracking, OEE reporting, production reports, audit history, PLC drive-current analytics, and notifications.
+
+**Platform features:** live camera streams, WebSocket updates, line-run and shift tracking, production reports, audit logs, PLC analytics, email notifications, production metrics.
 
 It is a multi-author codebase. Here is what I personally built:
 
@@ -67,23 +71,27 @@ It is a multi-author codebase. Here is what I personally built:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,mui&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,angular,mui&theme=dark"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring&theme=dark"/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark"/>
 
-**DevOps and Tools**
+**DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,heroku&theme=dark"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark"/>
 
 </div>
 
